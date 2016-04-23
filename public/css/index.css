@@ -1,4 +1,10 @@
 .item {
     height: 480px;
-    width: 480px;
+}
+body {
+    background-color: royalblue;
+}
+#facebook {
+    height: 45px;
+    cursor: pointer;
 }
