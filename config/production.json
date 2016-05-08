@@ -1,0 +1,4 @@
+{
+  "dbURL" : "mongodb://mnahm5:password@ds033113.mlab.com:33113/cards",
+  "sessionSecret": "abcdefghi"
+}
